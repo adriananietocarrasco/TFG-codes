@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSimDocument Version="30000">
+    <ExternalLoads name="no_loads">
+        <datafile></datafile>
+        <external_loads/>
+    </ExternalLoads>
+</OpenSimDocument>
