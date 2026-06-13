@@ -1,0 +1,6 @@
+
+Experimento GRU - Predicción de Ángulos Futuros
+- Datos: datos_suavizados_y_sin_anomalías
+- input_len=60, output_len=30, hidden_dim=50, num_layers=2, dropout=0.20.11822341783467087
+- Optimizer: Adam, lr=0.001, batch_size=32, epochs=70, patience=10
+- Descripción: Predicción de ángulo (1 salida) a partir de ángulos pasados (1 entrada)

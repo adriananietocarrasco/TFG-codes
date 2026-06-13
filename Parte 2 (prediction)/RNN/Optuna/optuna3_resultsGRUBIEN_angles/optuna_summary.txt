@@ -1,0 +1,14 @@
+Mejor conjunto de hiperparámetros:
+{
+    "hidden_dim": 50,
+    "num_layers": 2,
+    "lr": 0.001,
+    "dropout_prob": 0.11822341783467087,
+    "batch_size": 32
+}
+
+Mejor valor objetivo: 0.014253
+Número de trial ganador: 44
+Tiempo total de optimización: 391.26 minutos (23475.4 segundos)
+Resultados de los trials guardados en: optuna3_resultsGRUBIEN_angles\trials.csv
+Gráficas guardadas en: optuna3_resultsGRUBIEN_angles
