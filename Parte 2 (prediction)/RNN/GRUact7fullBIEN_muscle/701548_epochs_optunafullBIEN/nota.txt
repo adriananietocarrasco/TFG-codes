@@ -1,7 +1,0 @@
-
-Experimento GRU - 701548_GRUact7guardandoentrena2_optunafullBIEN_condatatrain
-
-- Datos: sim_data_MATSUOKA6_sinsconethingsBIEN
-- input_len=100, output_len=30, hidden_dim=50, num_layers=1, dropout=0c
-- Optimizer: Adam, lr=0.0001, batch_size=128, epochs=70, patience=10
-- Descripción: se ha cambiado la configuración de 80 10 10 a 70 15 15 para el entrenamiento, validación y test respectivamente.

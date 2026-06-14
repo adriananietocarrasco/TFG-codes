@@ -1,7 +1,0 @@
-{
-    "hidden_dim": 50,
-    "num_layers": 2,
-    "lr": 0.001,
-    "dropout_prob": 0.17499273890161493,
-    "batch_size": 64
-}

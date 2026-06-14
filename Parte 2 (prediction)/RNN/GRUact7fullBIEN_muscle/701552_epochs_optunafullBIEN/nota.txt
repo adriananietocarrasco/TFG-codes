@@ -1,7 +1,0 @@
-
-Experimento GRU - 701552_epochs_optunafullBIEN_condatatrain
-
-- Datos: datos_suavizados_y_sin_anomalías
-- input_len=100, output_len=30, hidden_dim=50, num_layers=2, dropout=0.2
-- Optimizer: Adam, lr=0.001, batch_size=16, epochs=70, patience=10
-- Descripción: solo he usado archivos de left para ver la relación

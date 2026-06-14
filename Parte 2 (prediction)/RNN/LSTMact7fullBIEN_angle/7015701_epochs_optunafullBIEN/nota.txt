@@ -1,7 +1,0 @@
-
-Experimento LSTM - 7015701_epochs_optunafullBIEN
-
-- Datos: sim_data_MATSUOKA6_sinsconethingsBIEN
-- input_len=60, output_len=30, hidden_dim=35, num_layers=1, dropout= 0.498795757101652
-- Optimizer: Adam, lr=0.0005, batch_size=16, epochs=70, patience=10
-- Descripción: se ha cambiado la configuración de 80 10 10 a 70 15 15 para el entrenamiento, validación y test respectivamente.
